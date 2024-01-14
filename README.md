@@ -1,2 +1,2 @@
-# Question-Answer-Generation-App-using-Mistral-7B
-Question Answer Generation App using Mistral 7B, Langchain, and FastAPI.
+# QA Generation CSV for AlgoGPT
+Uses Mistral 7B, Langchain.
