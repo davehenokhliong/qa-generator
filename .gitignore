@@ -1,0 +1,10 @@
+# the mistral model
+mistral-7b-v0.1.Q4_K_M.gguf
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# environment
+myenv/
